@@ -206,5 +206,3 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask:
-
-662115041 Ratthasas Singhamanee
